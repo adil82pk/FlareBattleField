@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlareBattleField", "FlareBattleField\FlareBattleField.csproj", "{B903E8A1-7330-4AFC-BED9-E3F057B4C7C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlareBattleField.Test", "TestingBasics.Test\FlareBattleField.Test.csproj", "{DF9CE532-2236-4ADF-AE48-BA457717A446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B903E8A1-7330-4AFC-BED9-E3F057B4C7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B903E8A1-7330-4AFC-BED9-E3F057B4C7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B903E8A1-7330-4AFC-BED9-E3F057B4C7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B903E8A1-7330-4AFC-BED9-E3F057B4C7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9CE532-2236-4ADF-AE48-BA457717A446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9CE532-2236-4ADF-AE48-BA457717A446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9CE532-2236-4ADF-AE48-BA457717A446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9CE532-2236-4ADF-AE48-BA457717A446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCFC942F-6F1A-467D-9474-D1D9EF47D7C0}
+	EndGlobalSection
+EndGlobal
